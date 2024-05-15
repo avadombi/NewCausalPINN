@@ -1,0 +1,10 @@
+tensorflow==1.14
+keras
+numpy>1.20
+pandas
+matplotlib
+shap
+scikit-learn
+openpyxl
+xlrd
+seaborn
